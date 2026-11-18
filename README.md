@@ -1,7 +1,7 @@
 # 🚗 Electric Vehicle (EV) Adoption & Market Share Analysis
 
 ## 📌 Executive Summary
-This project analyzes 180,000+ Electric Vehicle (EV) and Plug-in Hybrid Electric Vehicle (PHEV) registration records from the Washington State Department of Licensing. Using Python for programmatic data cleaning and Power BI for interactive visualization, I transformed raw public dataset records into an executive-level dashboard to uncover key industry metrics: market share breakdown, battery range evolution across model years, vehicle category preferences, and regional adoption density.
+This project analyzes 300,142 Electric Vehicle (EV) and Plug-in Hybrid Electric Vehicle (PHEV) registration records from the Washington State Department of Licensing. Using Python for programmatic data cleaning and Power BI for interactive visualization, I transformed raw public dataset records into an executive-level dashboard to uncover key industry metrics: market share breakdown, battery range evolution across model years, vehicle category preferences, and regional adoption density.
 
 ---
 
